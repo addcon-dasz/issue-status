@@ -1,6 +1,6 @@
 {
-  "short_name": "Issue Status",
-  "name": "Simple, modern and flexible status page",
+  "short_name": "ADDCON IT Status",
+  "name": "ADDCON IT Systems Status Panel",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://tadhglewis.github.io/issue-status",
+  "start_url": "https://status.addcon.com",
   "display": "standalone",
-  "theme_color": "#3da751"
+  "theme_color": "#f57920"
 }

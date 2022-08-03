@@ -7,7 +7,7 @@ export default (components) => {
   useEffect(() => {
     let statusSet = false;
 
-    if (getComponentLabelPercent(components, "operational") < 70) {
+    if (getComponentLabelPercent(components, "operational") < 99) {
       setStatus(statuses.issues);
       statusSet = true;
     }
